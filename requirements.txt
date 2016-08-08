@@ -1,3 +1,6 @@
 scikit-learn==0.17.1
 numpy==1.11.1
 pandas==0.18.1
+pil==1.1.7
+pillow==3.2.0
+scipy==0.17.1
